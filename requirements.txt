@@ -1,0 +1,7 @@
+buildozer==1.5.0
+distlib==0.3.8
+pexpect==4.9.0
+ptyprocess==0.7.0
+screentime==0.0.1
+sh==2.0.6
+virtualenv==20.25.1
