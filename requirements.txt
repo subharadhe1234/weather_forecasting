@@ -5,7 +5,7 @@ distlib==0.3.8
 fonttools==4.56.0
 kiwisolver==1.4.8
 matplotlib==3.10.0
-numpy==2.2.3
+numpy==1.24.4
 pandas==2.2.3
 pillow==11.1.0
 ptyprocess==0.7.0
@@ -20,3 +20,5 @@ sh==2.0.6
 tzdata==2025.1
 virtualenv==20.25.1
 statsmodels
+tensorflow
+scikit-learn
