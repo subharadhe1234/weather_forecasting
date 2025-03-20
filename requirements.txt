@@ -22,3 +22,5 @@ virtualenv==20.25.1
 statsmodels
 tensorflow
 scikit-learn
+dtaidistance\
+pmdarima
