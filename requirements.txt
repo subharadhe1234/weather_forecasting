@@ -12,7 +12,6 @@ ptyprocess==0.7.0
 pyparsing==3.2.1
 python-dotenv==1.0.1
 pytz==2025.1
-pywin32==307
 scipy==1.15.1
 screentime==0.0.1
 seaborn==0.13.2
@@ -22,5 +21,12 @@ virtualenv==20.25.1
 statsmodels
 tensorflow
 scikit-learn
-dtaidistance\
+dtaidistance
 pmdarima
+torch
+transformers
+prophet
+tensorflow
+neuralprophet
+pytorch_forecasting
+ibm_ttm==0.2.9
